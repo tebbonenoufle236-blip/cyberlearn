@@ -382,3 +382,15 @@ footer {
     text-align: center;
     font-weight: bold;
 }
+
+.MagicButtonV{
+    font: inherit;
+    width: 15%;
+    margin:auto;
+    background: #1d4ed8;
+    border-radius: 10px;
+    outline: none;
+    font-style: oblique;
+    font-size: 20px;
+    color: #f8fafc;
+}
